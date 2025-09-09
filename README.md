@@ -33,7 +33,7 @@ python Student_Placement.py
 ```
 
 ## 📄 Files
-- `Student_Placement.ip` - Main analysis script
+- `Student_Placement.ipynb` - Main analysis script
 - `Placement.csv` - Dataset
 
 Perfect for understanding ML classification and statistical analysis! 🎯
