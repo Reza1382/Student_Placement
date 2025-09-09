@@ -33,8 +33,7 @@ python Student_Placement.py
 ```
 
 ## 📄 Files
-- `Student_Placement.py` - Main analysis script
+- `Student_Placement.ip` - Main analysis script
 - `Placement.csv` - Dataset
-- `requirements.txt` - Dependencies
 
 Perfect for understanding ML classification and statistical analysis! 🎯
